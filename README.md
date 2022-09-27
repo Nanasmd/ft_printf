@@ -30,10 +30,11 @@ int ft_printf(const char *, ...);
 # 4. What I learned
 
 Through this project, I learned about the principle and implementation of variable functions. I also mastered complex parsing. 
-Detailed information and prior knowledge about this project are summarized in Link . [Link](https://24siefil.oopy.io/8acf5536-1e1a-498b-b1a5-577e0c20b523)에 정리하였다.
+Detailed information and prior knowledge about this project are summarized below
 
 1. Variable Argument
-1. What is a variable factor?
+
+What is a variable factor?
 
             In the C language, there are functions with an unspecified number of parameters. 
             The printf function is also a function that uses variable arguments and can be used by receiving as many arguments as you want depending on the situation. A variable factor is a variable factor that can be handled by allocating a different number of parameters depending on the situation. You can enter nothing or multiple variables in the variable argument. 
