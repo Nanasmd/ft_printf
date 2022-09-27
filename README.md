@@ -7,7 +7,7 @@
 | Stack | C |
 | Evaluated | 2021-06-14 |
 | English Subject | [en.subject](https://github.com/Nanasmd/ft_printf/blob/2f7f7eb05fea5ee4d41b2a770e23d710c5dca8f5/subject.pdf) |
-| French Subject | [ko.subject](https://github.com/Nanasmd/ft_printf/blob/2f7f7eb05fea5ee4d41b2a770e23d710c5dca8f5/fr.subject.pdf) |
+| French Subject | [fr.subject](https://github.com/Nanasmd/ft_printf/blob/2f7f7eb05fea5ee4d41b2a770e23d710c5dca8f5/fr.subject.pdf) |
 
 <br/>
 
